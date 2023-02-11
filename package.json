@@ -11,6 +11,7 @@
   "dependencies": {
     "@nut-tree/nut-js": "^3.0.0",
     "@nut-tree/template-matcher": "^2.0.0",
+    "puppeteer": "^19.6.3",
     "ts-node": "^10.9.1"
   }
 }
